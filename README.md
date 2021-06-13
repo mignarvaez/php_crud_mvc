@@ -1,0 +1,3 @@
+# Ejemplo de un CRUD con PHP y MariaDB usando el modelo MVC
+Ejemplo de un CRUD usando PHP y Mariadb con el modelo vista controlador   en donde el controlador es el archivo index.php. La base de datos usada   se denomina world.sql, se encuentra en esta misma carpeta o puede ser   descargada desde https://dev.mysql.com/doc/index-other.html  
+Este ejemplo está basado en el siguiente tutorial: https://www.youtube.com/watch?v=b6c3B-Cgi38 
